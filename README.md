@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" width="350"/>
-</p>
-<hr>
 <h1 align="center">I'm <a href="https://github.com/KevinCochachin">KEVIN COCHACHIN<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
-<Br>
 <h1>About Me! 😎</h1>
+   <img width= "240" align= "right" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 -I am a Systems and Informatics Engineering student with a strong interest in technology and research. I aim to expand my knowledge in project management and strengthen my skills in programming and data analysis.
 
 - 🏫: I am a 9th-cycle Engineering student.

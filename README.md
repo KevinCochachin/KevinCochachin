@@ -1,25 +1,23 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="200" width="350"/>
 </p>
 <hr>
 <h1 align="center">I'm <a href="https://github.com/KevinCochachin">KEVIN COCHACHIN<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 <h1>About Me! 😎</h1>
+-I am a Systems and Informatics Engineering student with a strong interest in technology and research. I aim to expand my knowledge in project management and strengthen my skills in programming and data analysis.
 
-- 🏫: I'm a grade 9, High School Student.
-- 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I play Soccer, Tennis and the Piano! ⚽🎾🎹
+- 🏫: I am a 9th-cycle Engineering student.
+- 🌱: I’m currently learning machine learning models for data science. 🧠💻🤖
+- 🤔: I’m looking for help with anything I’m currently learning! 😅
+- ⚡ Fun fact: I enjoy playing soccer, listening to music, and playing guitar! ⚽🎵🎸
   
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/arya-manjaramkar" target="blank"><img align="center" src="https://img.shields.io/badge/Arya Manjaramkar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/aryagm01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/Aryagm" target="blank"><img align="center" src="https://img.shields.io/badge/Aryagm-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevincochachin/" target="blank"><img align="center" src="https://img.shields.io/badge/Kevin Cochachin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:kevincochachin1@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/kevincochachin1@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://github.com/KevinCochachin" target="blank"><img align="center" src="https://img.shields.io/badge/Kevin-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
   
 <Br>

@@ -24,7 +24,7 @@
   
 |![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Cleaning-green?style=for-the-badge)|
 |---|---|---|---|
-|![](https://img.shields.io/badge/ETL-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Gestión%20de%20Proyectos-purple?style=for-the-badge)|![](https://img.shields.io/badge/Programación-orange?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://img.shields.io/badge/ETL-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Project%20Management-purple?style=for-the-badge)|![](https://img.shields.io/badge/Programming-orange?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
 
 
 
